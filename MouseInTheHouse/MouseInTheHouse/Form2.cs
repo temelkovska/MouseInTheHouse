@@ -40,7 +40,7 @@ namespace MouseInTheHouse
             countLives = 3;
             countCheese = 0;
             PAUSE = false;
-            label1.Text = "Lives:";
+           // label1.Text = "Lives:";
             label6.Text = countLives.ToString();
             nivo = 1;
             label7.Text ="1";

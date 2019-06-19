@@ -345,9 +345,9 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Location = new System.Drawing.Point(222, 565);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(50, 13);
+            this.label1.Size = new System.Drawing.Size(41, 13);
             this.label1.TabIndex = 23;
-            this.label1.Text = "Животи:";
+            this.label1.Text = "  Lives:";
             // 
             // pictureBox14
             // 
@@ -482,9 +482,9 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Location = new System.Drawing.Point(222, 552);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(36, 13);
+            this.label5.Size = new System.Drawing.Size(39, 13);
             this.label5.TabIndex = 37;
-            this.label5.Text = "Ниво:";
+            this.label5.Text = " Level:";
             // 
             // label6
             // 
